@@ -1,5 +1,7 @@
 # clear-screen
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/seangenabe/clear-screen.svg)](https://greenkeeper.io/)
+
 Clear your console buffer
 
 [![npm](https://img.shields.io/npm/v/clear-screen.svg?style=flat-square)](https://www.npmjs.com/package/clear-screen)
